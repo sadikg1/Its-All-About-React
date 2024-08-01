@@ -1,0 +1,19 @@
+.apname{
+  font-weight: 700;
+  font-size: 45px;
+  margin: 10px;
+  margin-bottom: 20px;
+}
+input{
+  width: 100%;
+}
+.todo-list{
+  text-align: left;
+}
+.sg-row{
+  margin: 10px 5px;
+}
+
+.sg-button{
+  min-width: 80px;
+}

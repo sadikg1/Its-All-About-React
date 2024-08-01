@@ -1,0 +1,6 @@
+Day 1
+install node.js and required extension
+create a new react app suing npx create-react-app your_app_name
+
+Day 2
+JS reviser

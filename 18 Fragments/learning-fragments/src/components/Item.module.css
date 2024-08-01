@@ -1,0 +1,12 @@
+.kg-span {
+  font-weight: 700;
+  font-family: "Courier New", Courier, monospace;
+  color: #3a5164 !important;
+}
+.kg-item {
+  background-color: khaki;
+}
+.button{
+  float: right;
+
+}
